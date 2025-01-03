@@ -1,8 +1,4 @@
-<!-- Banner Section -->
-<div align="center">
-  <!-- Replace this link with your actual banner URL -->
-  <img src="https://user-images.githubusercontent.com/USER_ID/REPO_NAME/MY_BANNER.png" alt="My Awesome Banner" width="100%" />
-</div>
+
 
 <!-- Title & Subtitle -->
 <h1 align="center">🌟 Hello World, I'm Yipeng (Andrew) Wang</h1>
