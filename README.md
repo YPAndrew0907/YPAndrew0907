@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 Hello World, I'm Yipeng (Andrew) Wang
-### Computer Scientist | Data Scientist | Mathematician
+### Computer Scientist | Data Scientist | Mathematician 
 
 ![](https://img.shields.io/badge/Focus-Scalable_Data_Solutions-BE2EDD)
 ![](https://img.shields.io/badge/Role-BI_Analyst_and_Developer-20B2AA)
