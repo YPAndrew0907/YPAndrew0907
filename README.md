@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/YPAndrew0907"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
-  <a href="mailto:andrew.wang@example.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="mailto:andrewwang040907@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/YPAndrew0907?style=social)](https://github.com/YPAndrew0907)
