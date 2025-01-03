@@ -1,14 +1,15 @@
 <div align="center">
 
 # 🌟 Hello World, I'm Yipeng (Andrew) Wang
-### AI Researcher & Developer
+### Undergraduate CS Major | Math Minor | Music Minor
 
 ![](https://img.shields.io/badge/Focus-Artificial_Intelligence_and_Algorithms-BE2EDD)
-![](https://img.shields.io/badge/Role-Software_Engineer_&_Data_Scientist-20B2AA)
+![](https://img.shields.io/badge/Role-Undergraduate_Researcher-20B2AA)
 
 <p>
   <a href="https://github.com/YPAndrew0907"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
   <a href="mailto:andrewwang040907@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/yipeng-andrew-wang-366811276/"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/YPAndrew0907?style=social)](https://github.com/YPAndrew0907)
@@ -21,8 +22,8 @@
 > "Code, innovate, and learn."
 
 - 🔭 Researching machine learning, data science, and robotics algorithms.
-- 🌱 Computer Science & Mathematics major with a passion for computational efficiency and optimization.
-- 🎓 Aspiring Ph.D. candidate focused on advanced algorithmic solutions.
+- 🌱 Computer Science undergraduate with a minor in Mathematics and a second minor in Music.
+- 🎓 Exploring computational efficiency, optimization, and creative intersections with music technology.
 
 ## 💻 Tech Stack
 
@@ -48,6 +49,7 @@
 ### 📊 Data Science
 - **[Movie Trend Prediction](https://github.com/YPAndrew0907/MovieTrendPrediction)**: Scrapes data to analyze trends and predict show ratings.
 - **[Salary Insights](https://github.com/YPAndrew0907/SalaryTrends)**: A web scraper-based tool for predicting data science salary trends.
+- **[DS3000 Project 1](https://github.com/YPAndrew0907/DS3000-project1)**: Data science project focusing on real-world insights through exploratory analysis.
 
 ## 📈 GitHub Stats
 
@@ -58,7 +60,8 @@
 
 ## 🌐 Connect With Me
 - 📧 Email: andrewwang040907@gmail.com
-- 📱 GitHub: [YPAndrew0907](https://github.com/YPAndrew0907)
+- 💼 LinkedIn: [Yipeng (Andrew) Wang](https://www.linkedin.com/in/yipeng-andrew-wang-366811276/)
+- 🖥️ GitHub: [YPAndrew0907](https://github.com/YPAndrew0907)
 
 ---
 
