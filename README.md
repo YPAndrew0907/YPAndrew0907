@@ -1,34 +1,41 @@
-<!-- Banner or Cover Image (Optional) -->
+<!-- Banner Section -->
 <div align="center">
-  <!-- You can replace the link below with your own banner or cover image -->
-  <img src="https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/banner.png" alt="Banner" width="800"/>
+  <!-- Replace this link with your actual banner URL -->
+  <img src="https://user-images.githubusercontent.com/USER_ID/REPO_NAME/MY_BANNER.png" alt="My Awesome Banner" width="100%" />
 </div>
 
-<!-- Intro and Socials -->
+<!-- Title & Subtitle -->
 <h1 align="center">🌟 Hello World, I'm Yipeng (Andrew) Wang</h1>
 <h3 align="center">Computer Scientist | Data Scientist | Mathematician</h3>
 
-<div align="center">
+<!-- Focus & Role Badges -->
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Scalable_Data_Solutions-BE2EDD" alt="Focus Badge"/>
   <img src="https://img.shields.io/badge/Role-BI_Analyst_and_Developer-20B2AA" alt="Role Badge"/>
-</div>
+</p>
 
+<!-- Socials & Stats -->
 <p align="center">
+  <!-- Email -->
   <a href="mailto:andrewwang040907@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yipeng-andrew-wang-366811276">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
+  <!-- GitHub -->
   <a href="https://github.com/YPAndrew0907">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
+  <!-- Followers -->
   <a href="https://github.com/YPAndrew0907?tab=followers">
     <img src="https://img.shields.io/github/followers/YPAndrew0907?style=social" alt="GitHub Followers"/>
   </a>
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=YPAndrew0907&color=blueviolet" alt="Profile Views"/>
 </p>
 
@@ -39,8 +46,10 @@
 
 - 🔭 **BI Analyst Trainee at LEGO Group**  
   Focus on data integration and dashboard automation.
+
 - 🌱 **Computer Science & Math Student**  
-  With minors in Mathematics and Music at Northeastern University.
+  Minors in Mathematics and Music at Northeastern University.
+
 - 🎓 **Data-Driven Enthusiast**  
   Passionate about scalable, data-driven solutions that inspire innovation and foster collaboration.
 
@@ -96,9 +105,17 @@
 
 ---
 
+## 🤝 Connect & Collaborate
+<p>
+  Open to collaborative projects, hackathons, and innovation challenges! 
+  <br/>
+  <strong>Got an idea or an opportunity?</strong> Feel free to <a href="mailto:andrewwang040907@gmail.com">email me</a> or reach out on <a href="https://www.linkedin.com/in/yipeng-andrew-wang-366811276">LinkedIn</a>.
+</p>
+
+---
+
 ## 📈 GitHub Stats
 <div align="center">
-  <!-- Change "YPAndrew0907" to your GitHub username in the URLs below, if different -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YPAndrew0907&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YPAndrew0907&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
