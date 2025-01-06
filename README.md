@@ -97,7 +97,8 @@
 - **English** – Native/Bilingual  
 - **Chinese** – Native/Bilingual  
 - **Korean** – Elementary  
-- **Japanese** – Limited Working  
+- **Japanese** – Limited Working
+- **Shanghainese** – Native
 
 ---
 
